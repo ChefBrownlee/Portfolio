@@ -1,0 +1,22 @@
+body
+ {
+
+    background-image: url("http://orig04.deviantart.net/b4bc/f/2013/217/7/f/pikachu_s_pokeball_left_behind_by_liega1-d6gutss.png");
+
+  
+
+div {
+    border: doubled;
+    background-color: #d5d5f6;
+    text-decoration: underline;
+
+
+    }
+
+    h1 {
+        text-shadow: 2px 2px white;
+    }
+    h2 {
+    text-shadow: 2px 2px silver;
+}
+ body{margin-left: 100px}

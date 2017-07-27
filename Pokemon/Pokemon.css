@@ -1,0 +1,65 @@
+.poke-container div {
+  margin: 20px;
+  padding: 15px;
+  max-width: 300px;
+  height: 300px;
+  border: 3px outset black;
+
+}
+
+
+.poke-container div div {
+  border:none;
+}
+
+body{
+  margin-left: 30px;
+  margin-top: 60px;
+  margin-right: 30px;
+}
+
+
+
+.poke-container {
+display: flex;
+flex-direction: row;
+
+}
+
+
+.pikachu {
+  background-color: black;
+}
+
+.charizard {
+  background-color: orange;
+}
+
+.Blastoise {
+  background-color: blue;
+}
+
+.Venusaur {
+  background-color: green
+}
+
+.Haunter {
+  background-color: purple;
+}
+
+.Porygon {
+  background-color: pink;
+}
+
+
+.Blaziken {
+  background-color: brown;
+}
+
+
+
+
+
+
+body{
+background-image: url("http://orig04.deviantart.net/b4bc/f/2013/217/7/f/pikachu_s_pokeball_left_behind_by_liega1-d6gutss.png");

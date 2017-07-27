@@ -1,0 +1,33 @@
+<style>
+
+.heading {
+  margin-bottom: 0;
+  height: 10%;
+  width: 100%;
+
+}
+.Search-bar {
+  width: ;
+  margin-top: -34px;
+  margin-left: -20%;
+
+}
+.search {
+  position: relative;
+  left: 30%;
+  top: 10%;
+
+  background-color: white;
+  color: grey;
+}
+.spans {
+  display: block;
+}
+</style>
+.im {
+  margin: 5px;
+  padding: 2px;
+  max-width: 50px;
+  max-height: 50px;
+  float: left;
+}
