@@ -86,3 +86,38 @@
   background-color: #4CAF50;
   color: white;
 }
+
+
+
+.Name {
+    border: 2px solid #a1a1a1;
+    padding: 10px 40px;
+    background: white;
+    width: 300px;
+    border-radius: 25px;
+}
+
+
+.Email {
+    border: 2px solid #a1a1a1;
+    padding: 10px 40px;
+    background: white;
+    width: 300px;
+    border-radius: 25px;
+}
+
+.Comment {
+    border: 2px solid #a1a1a1;
+    padding: 10px 40px;
+    background: white;
+    width: 300px;
+    border-radius: 25px;
+}
+
+.Phone  {
+    border: 2px solid #a1a1a1;
+    padding: 10px 40px;
+    background: white;
+    width: 300px;
+    border-radius: 25px;
+}
